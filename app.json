@@ -9,7 +9,6 @@
     "stack": "container",
      "env": {
             "AQUA_SESSION": {
-            "description": "",
                 "value": "AQUA=lkgG3aaI#V439rBNanR0JX9MB878wGq7uK5EYJgU79X4-ZlBUqB8" ,
             "required": true
              },
@@ -50,7 +49,7 @@
        
             "AUTO_REACT": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
              },
            
